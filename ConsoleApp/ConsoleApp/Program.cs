@@ -6,7 +6,7 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Mihovil Kovačević 0165074996");
+            Console.WriteLine("Pozdrav iz aplikacije od Mihovil Kovačević");
         }
     }
 }
